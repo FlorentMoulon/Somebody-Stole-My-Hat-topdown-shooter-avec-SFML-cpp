@@ -6,7 +6,7 @@
 
 ## Présentation
 
-Notre jeu est un jeu de tir, vu du dessus. Il s'inspire notamment du jeu "Hotline Miami", publié en 2012 (ou du jeu "Commando: Wolf of the Battlefield", publié en 1985, pour les plus connaisseurs).
+Notre jeu est un jeu de tir vu du dessus. Il s'inspire notamment du jeu "Hotline Miami", publié en 2012 (ou du jeu "Commando: Wolf of the Battlefield", publié en 1985, pour les plus connaisseurs).
 
   
   
@@ -15,11 +15,11 @@ Notre jeu est un jeu de tir, vu du dessus. Il s'inspire notamment du jeu "Hotlin
 
 Ce jeu a été créé par :
 
-- Florent MOULON (12005134)
+- Florent MOULON 
 
-- Aurélien BOISSOT (12002425)
+- Aurélien BOISSOT
 
-- Damien LAQUEUVRE (12006112)
+- Damien LAQUEUVRE
 
 Avec l'aimable participation d'Antoine pour les musiques et sons.
 
@@ -91,4 +91,4 @@ A la racine du projet se trouvent le Makefile pour compiler, le README.md pour e
 ## Généreration de la documentation de code
 Dépendance : [Page web de Doxygen](https://www.doxygen.nl/)
 
-- Dans un terminal à la racine du projet, utiliser la commande `doxygen doc/documentation.doxy` pour générer la documaentation. Puis ouvrir le fichier doc/html/index.html avec Firefox.
+- Dans un terminal à la racine du projet, utilisez la commande `doxygen doc/documentation.doxy` pour générer la documentation. Puis ouvrir le fichier doc/html/index.html avec Firefox.
