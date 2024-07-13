@@ -8,6 +8,7 @@
 
 Notre jeu est un jeu de tir vu du dessus. Il s'inspire notamment du jeu "Hotline Miami", publié en 2012 (ou du jeu "Commando: Wolf of the Battlefield", publié en 1985, pour les plus connaisseurs).
 
+![Screenshot-Somebody-Stole-My-Hat](Screenshot-Somebody-Stole-My-Hat.png)
   
   
 
