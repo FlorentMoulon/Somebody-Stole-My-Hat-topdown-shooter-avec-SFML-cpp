@@ -20,8 +20,6 @@ Ce jeu a été créé par :
 
 - Aurélien BOISSOT
 
-- Damien LAQUEUVRE
-
 Avec l'aimable participation d'Antoine pour les musiques et sons.
 
   
